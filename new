@@ -1,19 +1,5 @@
-                                -- OPEN SOURCED
-                                 -- OPEN SOURCED
-                                  -- OPEN SOURCED
-                                   -- OPEN SOURCED
-                                    -- OPEN SOURCED
-                                     -- OPEN SOURCED
-                                      -- OPEN SOURCED
-                                       -- OPEN SOURCED
-                                        -- OPEN SOURCED
-                                         -- OPEN SOURCED
-                                          -- OPEN SOURCED
-                                           -- OPEN SOURCED
-                                -- OPEN SOURCED
-                                 -- OPEN SOURCED
-                                  -- OPEN SOURCED -- OPEN SOURCED -- OPEN SOURCED -- OPEN SOURCED
-                                local Aiming = loadstring(game:HttpGet("https://pastebin.com/raw/Q0LyGEm8", true))()
+         workspace.CurrentCamera.FieldOfView = 100
+                            local Aiming = loadstring(game:HttpGet("https://pastebin.com/raw/Q0LyGEm8", true))()
                             Aiming.TeamCheck(false)
                              
                             
